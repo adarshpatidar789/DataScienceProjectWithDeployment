@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/cefdf5c69ac64ddf9ea644d28bfad224/artifacts
+end_time: 1760898093159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cefdf5c69ac64ddf9ea644d28bfad224
+run_name: resilient-bear-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760898082095
+status: 3
+tags: []
+user_id: Adarsh

@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/c7100c8d410848e4b2971fbe54a13bff/artifacts
+end_time: 1760894693238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7100c8d410848e4b2971fbe54a13bff
+run_name: big-tern-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760894692691
+status: 4
+tags: []
+user_id: Adarsh

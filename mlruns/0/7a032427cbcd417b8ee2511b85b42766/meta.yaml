@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/7a032427cbcd417b8ee2511b85b42766/artifacts
+end_time: 1760897558644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a032427cbcd417b8ee2511b85b42766
+run_name: rare-doe-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760897546714
+status: 3
+tags: []
+user_id: Adarsh

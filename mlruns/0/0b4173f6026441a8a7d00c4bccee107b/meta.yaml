@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/0b4173f6026441a8a7d00c4bccee107b/artifacts
+end_time: 1760898032427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b4173f6026441a8a7d00c4bccee107b
+run_name: thoughtful-stoat-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760898020909
+status: 3
+tags: []
+user_id: Adarsh

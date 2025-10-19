@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/ee3f95a8b38e4671addde07b9177f3b6/artifacts
+end_time: 1760899442269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee3f95a8b38e4671addde07b9177f3b6
+run_name: sincere-lynx-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760899431167
+status: 3
+tags: []
+user_id: Adarsh

@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/60bf1bd459fb4df38ea69926c91c0be6/artifacts
+end_time: 1760894789993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60bf1bd459fb4df38ea69926c91c0be6
+run_name: awesome-vole-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760894770283
+status: 3
+tags: []
+user_id: Adarsh

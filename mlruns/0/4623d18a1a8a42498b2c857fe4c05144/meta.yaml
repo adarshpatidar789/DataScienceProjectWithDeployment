@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/4623d18a1a8a42498b2c857fe4c05144/artifacts
+end_time: 1760895622402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4623d18a1a8a42498b2c857fe4c05144
+run_name: luxuriant-skunk-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760895609188
+status: 3
+tags: []
+user_id: Adarsh
