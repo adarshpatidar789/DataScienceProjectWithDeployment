@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/33376fa281594c3d903cfe54e31a0c7a/artifacts
+end_time: 1760900973251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33376fa281594c3d903cfe54e31a0c7a
+run_name: adaptable-steed-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760900953561
+status: 3
+tags: []
+user_id: Adarsh

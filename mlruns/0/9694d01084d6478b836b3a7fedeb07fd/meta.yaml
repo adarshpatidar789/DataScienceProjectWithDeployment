@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/9694d01084d6478b836b3a7fedeb07fd/artifacts
+end_time: 1760900038804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9694d01084d6478b836b3a7fedeb07fd
+run_name: nebulous-ant-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760900026878
+status: 3
+tags: []
+user_id: Adarsh

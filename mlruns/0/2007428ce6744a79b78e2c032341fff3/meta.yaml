@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/2007428ce6744a79b78e2c032341fff3/artifacts
+end_time: 1760901008566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2007428ce6744a79b78e2c032341fff3
+run_name: secretive-sponge-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760900997426
+status: 3
+tags: []
+user_id: Adarsh

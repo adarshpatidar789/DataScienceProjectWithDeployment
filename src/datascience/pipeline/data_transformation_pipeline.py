@@ -22,6 +22,7 @@ class DataTransformationTrainingPipeline:
                 data_transformation=DataTransformation(config=data_transformation_config)
                 data_transformation.categorical_to_numerical()
                 data_transformation.train_test_splitting()
+                data_transformation.create_preprocessor()
             else:
                 raise Exception("Your data scheme is not valid")
             
