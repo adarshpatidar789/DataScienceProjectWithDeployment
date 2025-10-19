@@ -1,4 +1,4 @@
-# End-to-end project from building data science project with version control and deploying it to aws.
+# End-to-end project from building data science (Machine Learning) project with version control, containerizing and creating CI/CD pipeline
 - Step-1 template.py - this script will be used to automatically create the full project structure.  
 - Step-2 Custom Logging implementation under src\datascience\__init__.py  
 - Step-3 Common utility functions implementation  
@@ -22,4 +22,7 @@
     7. Update the pipeline
     8. Update the main.py
     
+- Step-5 Add Flask app
+- Step-6 Contanorization: Create a docker image
+- Step-7 Create a yml file for CI/CD workflow
      
