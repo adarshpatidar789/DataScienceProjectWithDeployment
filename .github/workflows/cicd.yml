@@ -53,8 +53,8 @@ jobs:
         file: ./Dockerfile        
         push: true
         tags: |
-          ${{ secrets.DOCKER_USERNAME }}/flask-app:latest
-          ${{ secrets.DOCKER_USERNAME }}/flask-app:${{ github.sha }}
+          ${{ secrets.DOCKER_USERNAME }}/credit-risk-analysis:latest
+          ${{ secrets.DOCKER_USERNAME }}/credit-risk-analysis:${{ github.sha }}
 
     - name: Image digest
       run: echo ${{ steps.build-and-publish.outputs.digest }}
