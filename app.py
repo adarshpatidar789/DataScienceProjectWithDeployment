@@ -9,13 +9,13 @@ app = Flask(__name__) # initializing a flask app
 
 @app.route('/',methods=['GET'])  # route to display the home page
 def homePage():
-    return render_template("index.html")
+    return render_template("home_page.html")
 
 
 @app.route('/train',methods=['GET'])  # route to train the pipeline
 def training():
     os.system("python main.py")
-    return "Training Successful!" 
+    return render_template("index.html") 
 
 
 @app.route('/predict',methods=['POST','GET']) # route to show the predictions in a web UI

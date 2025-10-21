@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/MLOps/DataScienceProjectWithDeployment/mlruns/0/710541b70ce548c5a1de4f3826e8f775/artifacts
+end_time: 1761055564417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 710541b70ce548c5a1de4f3826e8f775
+run_name: magnificent-wasp-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761055553431
+status: 3
+tags: []
+user_id: Adarsh
